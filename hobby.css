@@ -1,0 +1,17 @@
+.data{
+    border: 2px;
+    margin: 20px;
+    padding: 10px;
+    background-color: antiquewhite;
+    box-shadow: inset 1px 1px 11px 5px #dc9797;
+    font-size: medium;
+}
+
+body{
+    background: #864d4d;
+    margin-top: 100px;
+}
+
+.address{
+    height: 46px;
+}
